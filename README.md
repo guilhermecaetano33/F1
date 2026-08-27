@@ -1,4 +1,4 @@
-# F1 Stats — Estatísticas Reais de Fórmula 1
+# F1 project by Guilherme Caetano — Estatísticas Reais de Fórmula 1 observadas através de uma API pública em tempo real.
 
 Aplicativo de console em C# que consome dados **reais** de Fórmula 1
 através de uma API pública (Jolpica-F1).
