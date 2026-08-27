@@ -41,3 +41,22 @@ dotnet run
 
 Todos os dados vêm da API pública [Jolpica-F1](https://github.com/jolpica/jolpica-f1),
 um projeto open source e gratuito, sucessor da Ergast API.
+
+
+### Menu principal
+![Menu principal](screenshots/opcoes-de-pesquisa.png)
+
+### Classificação de pilotos por temporada
+![Classificação de pilotos](screenshots/classificacao-por-temporada.png)
+
+### Classificação de construtores por temporada
+![Classificação de construtores](screenshots/classificacao-construtores-por-temporada.png)
+
+### Busca de piloto específico
+![Busca de piloto](screenshots/pesquisa-pessoal-piloto.png)
+
+### Comparação entre pilotos
+![Comparação de pilotos](screenshots/comparacao-pilotos.png)
+
+### Resultado da última corrida
+![Resultado da última corrida](screenshots/resultado-ultima-corrida.png)
