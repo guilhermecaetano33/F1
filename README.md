@@ -12,11 +12,6 @@ através de uma API pública (Jolpica-F1).
 - Resultados da última corrida realizada
 
 
-## Requisitos
-
-- .NET 8 SDK instalado
-- Conexão com a internet (o programa faz requisições HTTP para a API)
-
 ## Tecnologias e conceitos usados
 
 - Consumo de API REST com `HttpClient`
