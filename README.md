@@ -24,10 +24,6 @@ através de uma API pública (Jolpica-F1).
 - Programação assíncrona (`async`/`await`)
 - Organização em camadas (Models / Services / Program)
 
-## Fonte dos dados
-
-Todos os dados vêm da API pública [Jolpica-F1](https://github.com/jolpica/jolpica-f1),
-
 ### Menu principal
 ![Menu principal](screenshots/opcoes-de-pesquisa.png)
 
